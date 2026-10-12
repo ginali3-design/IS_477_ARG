@@ -35,3 +35,8 @@ We plan to compare around 20–30 major U.S. metropolitan areas by combining the
 1. Which major U.S. cities offer the best balance between salaries, housing costs, and overall cost of living?
 2. How much of a person's annual salary would go toward rent in different cities?
 3. Do cities with higher salaries also have higher living expenses, or are there cities where people can earn more while spending less?
+
+### Datasets
+For our project, we plan to use three datasets that provide information on salaries, housing costs, and overall cost of living across U.S. metropolitan areas. All three datasets contain information from 2024 and will help us compare which areas offer the best financial opportunities for recent college graduates.
+
+

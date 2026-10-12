@@ -41,20 +41,33 @@ For our project, we plan to use three datasets that provide information on salar
 
 ### Member 3
 1. Occupational Employment and Wage Statistics (OEWS) — Bureau of Labor Statistics (BLS)
+
 •    Source: https://www.bls.gov/oes/tables.htm
+
 •    Year: 2024
+
 •    Data: Annual wages for different occupations across U.S. metropolitan areas.
+
 •    Purpose: We will focus on median annual wages for all occupations to compare earning potential in different metropolitan areas.
 3. American Community Survey (ACS) — U.S. Census Bureau
+
 •    Source: https://data.census.gov/table/ACSDT1Y2024.B25064
+
 •    Year: 2024
+
 •    Data: Median monthly gross rent across U.S. metropolitan areas.
+
 •    Purpose: We will use rent prices to compare housing affordability and calculate how much of a person's annual salary would go toward rent.
 4. Regional Price Parities (RPP) — PlainCost / Bureau of Economic Analysis (BEA)
+
 •    Downloaded Dataset: https://plaincost.com/data
+
 •    Original Source: https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area
+
 •    Year: 2024
+
 •    Data: Cost-of-living indexes across U.S. metropolitan areas, including the overall price levels of goods, housing, and services.
+
 •    Purpose: We will use the overall cost-of-living index to compare how expensive different metropolitan areas are and how far a salary might go in each location. The data comes from BEA and is compiled by PlainCost.
 
 How We Will Combine the Datasets

@@ -40,3 +40,15 @@ We plan to compare around 20–30 major U.S. metropolitan areas by combining the
 For our project, we plan to use three datasets that provide information on salaries, housing costs, and overall cost of living across U.S. metropolitan areas. All three datasets contain information from 2024 and will help us compare which areas offer the best financial opportunities for recent college graduates.
 
 
+### Timeline 
+Our team plans to complete the project in stages, starting with collecting and organizing our datasets and ending with our final analysis and report. We will divide the work among team members while working together on the major steps
+
+| Task | Description | Target Completion | Responsible |
+|---|---|---|---|
+| Finalize Project Plan | Confirm research questions, datasets, and project approach. | October 2026 | All Members |
+| Data Collection | Download the three datasets and organize files in GitHub. | Late October 2026 | Aryan, Gina, Ryan |
+| Data Cleaning | Check for missing values and organize the data consistently. | Early November 2026 | All Members |
+| Data Integration | Match metropolitan areas and combine all three datasets. | Early November 2026 | All Members |
+| Data Analysis | Compare wages, rent, and living costs and calculate affordability measures. | Mid-November 2026 | Aryan and Gina |
+| Data Visualization | Create charts and tables to present the results. | Mid-November 2026 | Gina and Ryan |
+| Documentation and Final Report | Document sources, cleaning steps, findings, and reproducibility instructions. | Late November–December 2026 | All Members |

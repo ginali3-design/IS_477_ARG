@@ -94,4 +94,18 @@ Our team plans to complete the project in stages, starting with collecting and o
 | Final Report and Submission | Summarize findings, review the project, test the workflow, and submit the final GitHub release. | November 30, 2026 | All Members |
 
 ### Member 1
+Constraints
+Some challenges we may face throughout the project include:
+    •    Data Consistency: Although all three datasets use 2024 data, they may organize or define metropolitan areas differently. We will need to make sure the locations match before combining them.
+    •    Missing Data: Some metropolitan areas may not have complete information across all three datasets. We may need to exclude locations with missing information.
+    •    Data Cleaning: The datasets may contain unnecessary columns, different formats, or inconsistent geographic identifiers that we will need to organize before analysis.
+    •    Data Sources: Our cost-of-living dataset is compiled by PlainCost using BEA data. We will need to verify the source information and follow any data usage or attribution requirements.
+    •    Limitations of the Data: Our salary dataset includes wages across all occupations, not just recent college graduates. Also, our comparisons will not account for every expense, such as taxes, student loans, or individual spending habits.
+Gaps
+There are still a few things we need to determine as we move forward:
+    •    City Selection: We still need to decide which 20–30 metropolitan areas to include in our analysis.
+    •    Combining the Data: We need to confirm that the geographic identifiers are compatible across all three datasets and determine the best way to combine them.
+    •    Analysis Methods: We still need to decide which calculations and comparisons will best answer our research questions.
+    •    Technical Approach: We will need to determine which tools to use for data cleaning, integration, analysis, and visualization, as well as how to document the steps so our results can be reproduced.
+    •    Project Updates: We may need to adjust our plan based on challenges we encounter or feedback from our professor.
 

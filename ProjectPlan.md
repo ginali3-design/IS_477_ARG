@@ -39,38 +39,26 @@ We plan to compare around 20–30 major U.S. metropolitan areas by combining the
 ### Datasets
 For our project, we plan to use three datasets that provide information on salaries, housing costs, and overall cost of living across U.S. metropolitan areas. All three datasets contain information from 2024 and will help us compare which areas offer the best financial opportunities for recent college graduates.
 
-### Member 3
 1. Occupational Employment and Wage Statistics (OEWS) — Bureau of Labor Statistics (BLS)
+- Source: https://www.bls.gov/oes/tables.htm
+- Year: 2024
+- Data: Annual wages for different occupations across U.S. metropolitan areas.
+- Purpose: We will focus on median annual wages for all occupations to compare earning potential in different metropolitan areas.
 
-•    Source: https://www.bls.gov/oes/tables.htm
+2. American Community Survey (ACS) — U.S. Census Bureau
+- Source: https://data.census.gov/table/ACSDT1Y2024.B25064
+- Year: 2024
+- Data: Median monthly gross rent across U.S. metropolitan areas.
+- Purpose: We will use rent prices to compare housing affordability and calculate how much of a person's annual salary would go toward rent
 
-•    Year: 2024
+3. Regional Price Parities (RPP) — PlainCost / Bureau of Economic Analysis (BEA)
+- Dataset: https://plaincost.com/data
+- Original Source: https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area
+- Year: 2024
+- Data: Cost-of-living indexes across U.S. metropolitan areas, including the overall price levels of goods, housing, and services.
+- Purpose: We will use the overall cost-of-living index to compare how expensive different metropolitan areas are and how far a salary might go in each location. The data comes from BEA and is compiled by PlainCost.
 
-•    Data: Annual wages for different occupations across U.S. metropolitan areas.
-
-•    Purpose: We will focus on median annual wages for all occupations to compare earning potential in different metropolitan areas.
-3. American Community Survey (ACS) — U.S. Census Bureau
-
-•    Source: https://data.census.gov/table/ACSDT1Y2024.B25064
-
-•    Year: 2024
-
-•    Data: Median monthly gross rent across U.S. metropolitan areas.
-
-•    Purpose: We will use rent prices to compare housing affordability and calculate how much of a person's annual salary would go toward rent.
-4. Regional Price Parities (RPP) — PlainCost / Bureau of Economic Analysis (BEA)
-
-•    Downloaded Dataset: https://plaincost.com/data
-
-•    Original Source: https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area
-
-•    Year: 2024
-
-•    Data: Cost-of-living indexes across U.S. metropolitan areas, including the overall price levels of goods, housing, and services.
-
-•    Purpose: We will use the overall cost-of-living index to compare how expensive different metropolitan areas are and how far a salary might go in each location. The data comes from BEA and is compiled by PlainCost.
-
-How We Will Combine the Datasets
+### How We Will Combine the Datasets
 
 All three datasets provide information about U.S. metropolitan areas. We plan to match the same locations across the datasets using geographic identification codes. We will check that the codes and metropolitan-area boundaries match before combining the data.
 
@@ -99,19 +87,19 @@ Our team plans to complete the project in stages, starting with collecting and o
 
 Some challenges we may face throughout the project include:
 
-- **Data Consistency:** Although all three datasets use 2024 data, they may organize or define metropolitan areas differently. We will need to make sure the locations match before combining them.
-- **Missing Data:** Some metropolitan areas may not have complete information across all three datasets. We may need to exclude locations with missing information.
-- **Data Cleaning:** The datasets may contain unnecessary columns, different formats, or inconsistent geographic identifiers that we will need to organize before analysis.
-- **Data Sources:** Our cost-of-living dataset is compiled by PlainCost using BEA data. We will need to verify the source information and follow any data usage or attribution requirements.
-- **Limitations of the Data:** Our salary dataset includes wages across all occupations, not just recent college graduates. Also, our comparisons will not account for every expense, such as taxes, student loans, or individual spending habits.
+- **Data Consistency:** Although all three datasets use 2024 data, they may organize or define metropolitan areas differently. We will need to make sure the locations match before combining them
+- **Missing Data:** Some metropolitan areas may not have complete information across all three datasets. We may need to exclude locations with missing information
+- **Data Cleaning:** The datasets may contain unnecessary columns, different formats, or inconsistent geographic identifiers that we will need to organize before analysis
+- **Data Sources:** Our cost-of-living dataset is compiled by PlainCost using BEA data. We will need to verify the source information and follow any data usage or attribution requirements
+- **Limitations of the Data:** Our salary dataset includes wages across all occupations, not just recent college graduates. Also, our comparisons will not account for every expense, such as taxes, student loans, or individual spending habits
 
 ## Gaps
 
 There are still a few things we need to determine as we move forward:
 
-- **City Selection:** We still need to decide which 20–30 metropolitan areas to include in our analysis.
-- **Combining the Data:** We need to confirm that the geographic identifiers are compatible across all three datasets and determine the best way to combine them.
-- **Analysis Methods:** We still need to decide which calculations and comparisons will best answer our research questions.
-- **Technical Approach:** We will need to determine which tools to use for data cleaning, integration, analysis, and visualization, as well as how to document the steps so our results can be reproduced.
-- **Project Updates:** We may need to adjust our plan based on challenges we encounter or feedback from our professor.
+- **City Selection:** We still need to decide which 20–30 metropolitan areas to include in our analysis
+- **Combining the Data:** We need to confirm that the geographic identifiers are compatible across all three datasets and determine the best way to combine them
+- **Analysis Methods:** We still need to decide which calculations and comparisons will best answer our research questions
+- **Technical Approach:** We will need to determine which tools to use for data cleaning, integration, analysis, and visualization, as well as how to document the steps so our results can be reproduced
+- **Project Updates:** We may need to adjust our plan based on challenges we encounter or feedback from our professor
 

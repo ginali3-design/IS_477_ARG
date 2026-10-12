@@ -40,15 +40,18 @@ We plan to compare around 20–30 major U.S. metropolitan areas by combining the
 For our project, we plan to use three datasets that provide information on salaries, housing costs, and overall cost of living across U.S. metropolitan areas. All three datasets contain information from 2024 and will help us compare which areas offer the best financial opportunities for recent college graduates.
 
 
+
 ### Timeline 
 Our team plans to complete the project in stages, starting with collecting and organizing our datasets and ending with our final analysis and report. We will divide the work among team members while working together on the major steps
 
 | Task | Description | Target Completion | Responsible |
 |---|---|---|---|
-| Finalize Project Plan | Confirm research questions, datasets, and project approach. | October 2026 | All Members |
-| Data Collection | Download the three datasets and organize files in GitHub. | Late October 2026 | Aryan, Gina, Ryan |
-| Data Cleaning | Check for missing values and organize the data consistently. | Early November 2026 | All Members |
-| Data Integration | Match metropolitan areas and combine all three datasets. | Early November 2026 | All Members |
-| Data Analysis | Compare wages, rent, and living costs and calculate affordability measures. | Mid-November 2026 | Aryan and Gina |
-| Data Visualization | Create charts and tables to present the results. | Mid-November 2026 | Gina and Ryan |
-| Documentation and Final Report | Document sources, cleaning steps, findings, and reproducibility instructions. | Late November–December 2026 | All Members |
+| Finalize Project Plan | Confirm research questions, datasets, and project approach. | October 14, 2026 | All Members |
+| Data Collection | Download the 2024 salary, housing, and cost-of-living datasets and document their sources. | October 18, 2026 | Aryan: BLS salary data; Gina: Census rent data; Ryan: PlainCost data |
+| Data Cleaning | Check for missing values, remove unnecessary columns, and organize each dataset. | October 23, 2026 | Aryan: salary data; Gina: rent data; Ryan: cost-of-living data |
+| Data Integration | Match metropolitan areas using geographic identifiers and combine the three datasets. | October 30, 2026 | All Members |
+| Data Quality Checks | Check the combined data for accuracy, completeness, consistency, and timeliness. | November 4, 2026 | Aryan: salary values; Gina: rent values; Ryan: cost-of-living values |
+| Data Analysis | Calculate rent as a percentage of wages, compare purchasing power, and identify patterns across cities. | November 13, 2026 | Aryan: salary and affordability calculations; Ryan: cost-of-living comparisons; Gina: housing comparisons |
+| Data Visualization | Create charts and tables comparing metropolitan areas. | November 20, 2026 | Gina: charts and graphs; Aryan: salary comparisons; Ryan: cost-of-living findings |
+| Documentation and Reproducibility | Document data sources, cleaning steps, code, and instructions for repeating the analysis. | November 25, 2026 | All Members |
+| Final Report and Submission | Summarize findings, review the project, test the workflow, and submit the final GitHub release. | November 30, 2026 | All Members |

@@ -1,0 +1,388 @@
+cbsa_code,metro_name_plaincost,rpp_overall_index,year,source
+10180,"Abilene, TX",90.364,2024,PlainCost / BEA 2024 RPP
+10420,"Akron, OH",93.37,2024,PlainCost / BEA 2024 RPP
+10500,"Albany, GA",87.669,2024,PlainCost / BEA 2024 RPP
+10540,"Albany, OR",102.1,2024,PlainCost / BEA 2024 RPP
+10580,"Albany-Schenectady-Troy, NY",99.566,2024,PlainCost / BEA 2024 RPP
+10740,"Albuquerque, NM",95.546,2024,PlainCost / BEA 2024 RPP
+10780,"Alexandria, LA",85.686,2024,PlainCost / BEA 2024 RPP
+10900,"Allentown-Bethlehem-Easton, PA-NJ",99.968,2024,PlainCost / BEA 2024 RPP
+11020,"Altoona, PA",89.507,2024,PlainCost / BEA 2024 RPP
+11100,"Amarillo, TX",91.82,2024,PlainCost / BEA 2024 RPP
+11180,"Ames, IA",88.83,2024,PlainCost / BEA 2024 RPP
+11200,"Amherst Town-Northampton, MA",100.243,2024,PlainCost / BEA 2024 RPP
+11260,"Anchorage, AK",105.42,2024,PlainCost / BEA 2024 RPP
+11460,"Ann Arbor, MI",100.88,2024,PlainCost / BEA 2024 RPP
+11500,"Anniston-Oxford, AL",85.949,2024,PlainCost / BEA 2024 RPP
+11540,"Appleton, WI",92.419,2024,PlainCost / BEA 2024 RPP
+11700,"Asheville, NC",96.506,2024,PlainCost / BEA 2024 RPP
+12020,"Athens-Clarke County, GA",93.343,2024,PlainCost / BEA 2024 RPP
+12060,"Atlanta-Sandy Springs-Roswell, GA",100.058,2024,PlainCost / BEA 2024 RPP
+12100,"Atlantic City-Hammonton, NJ",98.857,2024,PlainCost / BEA 2024 RPP
+12220,"Auburn-Opelika, AL",87.933,2024,PlainCost / BEA 2024 RPP
+12260,"Augusta-Richmond County, GA-SC",91.903,2024,PlainCost / BEA 2024 RPP
+12420,"Austin-Round Rock-San Marcos, TX",98.066,2024,PlainCost / BEA 2024 RPP
+12540,"Bakersfield-Delano, CA",100.886,2024,PlainCost / BEA 2024 RPP
+12580,"Baltimore-Columbia-Towson, MD",104.487,2024,PlainCost / BEA 2024 RPP
+12620,"Bangor, ME",96.508,2024,PlainCost / BEA 2024 RPP
+12700,"Barnstable Town, MA",98.351,2024,PlainCost / BEA 2024 RPP
+12940,"Baton Rouge, LA",90.78,2024,PlainCost / BEA 2024 RPP
+12980,"Battle Creek, MI",90.541,2024,PlainCost / BEA 2024 RPP
+13020,"Bay City, MI",91.921,2024,PlainCost / BEA 2024 RPP
+13140,"Beaumont-Port Arthur, TX",90.046,2024,PlainCost / BEA 2024 RPP
+13220,"Beckley, WV",88.369,2024,PlainCost / BEA 2024 RPP
+13380,"Bellingham, WA",103.334,2024,PlainCost / BEA 2024 RPP
+13460,"Bend, OR",103.607,2024,PlainCost / BEA 2024 RPP
+13740,"Billings, MT",93.526,2024,PlainCost / BEA 2024 RPP
+13780,"Binghamton, NY",92.863,2024,PlainCost / BEA 2024 RPP
+13820,"Birmingham, AL",91.644,2024,PlainCost / BEA 2024 RPP
+13900,"Bismarck, ND",91.024,2024,PlainCost / BEA 2024 RPP
+13980,"Blacksburg-Christiansburg-Radford, VA",92.71,2024,PlainCost / BEA 2024 RPP
+14010,"Bloomington, IL",93.537,2024,PlainCost / BEA 2024 RPP
+14020,"Bloomington, IN",95.084,2024,PlainCost / BEA 2024 RPP
+14260,"Boise City, ID",98.391,2024,PlainCost / BEA 2024 RPP
+14460,"Boston-Cambridge-Newton, MA-NH",108.266,2024,PlainCost / BEA 2024 RPP
+14500,"Boulder, CO",105.202,2024,PlainCost / BEA 2024 RPP
+14540,"Bowling Green, KY",90.179,2024,PlainCost / BEA 2024 RPP
+14580,"Bozeman, MT",102.51,2024,PlainCost / BEA 2024 RPP
+14740,"Bremerton-Silverdale-Port Orchard, WA",105.607,2024,PlainCost / BEA 2024 RPP
+14860,"Bridgeport-Stamford-Danbury, CT Metropolitan Statistical Area",106.864,2024,PlainCost / BEA 2024 RPP
+15180,"Brownsville-Harlingen, TX",85.975,2024,PlainCost / BEA 2024 RPP
+15260,"Brunswick-St. Simons, GA",87.708,2024,PlainCost / BEA 2024 RPP
+15380,"Buffalo-Cheektowaga, NY",95.844,2024,PlainCost / BEA 2024 RPP
+15500,"Burlington, NC",93.196,2024,PlainCost / BEA 2024 RPP
+15540,"Burlington-South Burlington, VT",100.949,2024,PlainCost / BEA 2024 RPP
+15940,"Canton-Massillon, OH",89.406,2024,PlainCost / BEA 2024 RPP
+15980,"Cape Coral-Fort Myers, FL",102.349,2024,PlainCost / BEA 2024 RPP
+16020,"Cape Girardeau, MO-IL",86.078,2024,PlainCost / BEA 2024 RPP
+16180,"Carson City, NV",98.13,2024,PlainCost / BEA 2024 RPP
+16220,"Casper, WY",93.829,2024,PlainCost / BEA 2024 RPP
+16300,"Cedar Rapids, IA",88.963,2024,PlainCost / BEA 2024 RPP
+16540,"Chambersburg, PA",94.642,2024,PlainCost / BEA 2024 RPP
+16580,"Champaign-Urbana, IL",92.704,2024,PlainCost / BEA 2024 RPP
+16620,"Charleston, WV",88.717,2024,PlainCost / BEA 2024 RPP
+16700,"Charleston-North Charleston, SC",100.962,2024,PlainCost / BEA 2024 RPP
+16740,"Charlotte-Concord-Gastonia, NC-SC",97.348,2024,PlainCost / BEA 2024 RPP
+16820,"Charlottesville, VA",99.146,2024,PlainCost / BEA 2024 RPP
+16860,"Chattanooga, TN-GA",91.464,2024,PlainCost / BEA 2024 RPP
+16940,"Cheyenne, WY",96.491,2024,PlainCost / BEA 2024 RPP
+16980,"Chicago-Naperville-Elgin, IL-IN",103.595,2024,PlainCost / BEA 2024 RPP
+17020,"Chico, CA",101.197,2024,PlainCost / BEA 2024 RPP
+17140,"Cincinnati, OH-KY-IN",95.37,2024,PlainCost / BEA 2024 RPP
+17300,"Clarksville, TN-KY",90.947,2024,PlainCost / BEA 2024 RPP
+17410,"Cleveland, OH",93.923,2024,PlainCost / BEA 2024 RPP
+17420,"Cleveland, TN",88.08,2024,PlainCost / BEA 2024 RPP
+17660,"Coeur d'Alene, ID",98.293,2024,PlainCost / BEA 2024 RPP
+17780,"College Station-Bryan, TX",90.951,2024,PlainCost / BEA 2024 RPP
+17820,"Colorado Springs, CO",100.707,2024,PlainCost / BEA 2024 RPP
+17860,"Columbia, MO",89.438,2024,PlainCost / BEA 2024 RPP
+17900,"Columbia, SC",93.662,2024,PlainCost / BEA 2024 RPP
+17980,"Columbus, GA-AL",89.296,2024,PlainCost / BEA 2024 RPP
+18020,"Columbus, IN",93.003,2024,PlainCost / BEA 2024 RPP
+18140,"Columbus, OH",95.469,2024,PlainCost / BEA 2024 RPP
+18580,"Corpus Christi, TX",92.671,2024,PlainCost / BEA 2024 RPP
+18700,"Corvallis, OR",104.017,2024,PlainCost / BEA 2024 RPP
+18880,"Crestview-Fort Walton Beach-Destin, FL",97.031,2024,PlainCost / BEA 2024 RPP
+19100,"Dallas-Fort Worth-Arlington, TX",103.09,2024,PlainCost / BEA 2024 RPP
+19140,"Dalton, GA",89.844,2024,PlainCost / BEA 2024 RPP
+19300,"Daphne-Fairhope-Foley, AL",94.69,2024,PlainCost / BEA 2024 RPP
+19340,"Davenport-Moline-Rock Island, IA-IL",89.079,2024,PlainCost / BEA 2024 RPP
+19430,"Dayton-Kettering-Beavercreek, OH",92.694,2024,PlainCost / BEA 2024 RPP
+19460,"Decatur, AL",87.212,2024,PlainCost / BEA 2024 RPP
+19500,"Decatur, IL",88.422,2024,PlainCost / BEA 2024 RPP
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",99.367,2024,PlainCost / BEA 2024 RPP
+19740,"Denver-Aurora-Centennial, CO",105.782,2024,PlainCost / BEA 2024 RPP
+19780,"Des Moines-West Des Moines, IA",91.701,2024,PlainCost / BEA 2024 RPP
+19820,"Detroit-Warren-Dearborn, MI",100.298,2024,PlainCost / BEA 2024 RPP
+20020,"Dothan, AL",83.833,2024,PlainCost / BEA 2024 RPP
+20100,"Dover, DE",97.507,2024,PlainCost / BEA 2024 RPP
+20220,"Dubuque, IA",87.328,2024,PlainCost / BEA 2024 RPP
+20260,"Duluth, MN-WI",88.768,2024,PlainCost / BEA 2024 RPP
+20500,"Durham-Chapel Hill, NC",97.572,2024,PlainCost / BEA 2024 RPP
+20580,"Eagle Pass, TX",83.805,2024,PlainCost / BEA 2024 RPP
+20740,"Eau Claire, WI",92.796,2024,PlainCost / BEA 2024 RPP
+20940,"El Centro, CA",95.174,2024,PlainCost / BEA 2024 RPP
+21060,"Elizabethtown, KY",90.572,2024,PlainCost / BEA 2024 RPP
+21140,"Elkhart-Goshen, IN",90.325,2024,PlainCost / BEA 2024 RPP
+21300,"Elmira, NY",94.398,2024,PlainCost / BEA 2024 RPP
+21340,"El Paso, TX",89.912,2024,PlainCost / BEA 2024 RPP
+21420,"Enid, OK *",84.269,2024,PlainCost / BEA 2024 RPP
+21500,"Erie, PA",90.95,2024,PlainCost / BEA 2024 RPP
+21660,"Eugene-Springfield, OR",101.568,2024,PlainCost / BEA 2024 RPP
+21780,"Evansville, IN",91.528,2024,PlainCost / BEA 2024 RPP
+21820,"Fairbanks-College, AK",103.208,2024,PlainCost / BEA 2024 RPP
+22020,"Fargo, ND-MN",90.871,2024,PlainCost / BEA 2024 RPP
+22140,"Farmington, NM",87.707,2024,PlainCost / BEA 2024 RPP
+22180,"Fayetteville, NC",91.978,2024,PlainCost / BEA 2024 RPP
+22220,"Fayetteville-Springdale-Rogers, AR",91.353,2024,PlainCost / BEA 2024 RPP
+22380,"Flagstaff, AZ",100.325,2024,PlainCost / BEA 2024 RPP
+22420,"Flint, MI",93.034,2024,PlainCost / BEA 2024 RPP
+22500,"Florence, SC",86.774,2024,PlainCost / BEA 2024 RPP
+22520,"Florence-Muscle Shoals, AL",84.817,2024,PlainCost / BEA 2024 RPP
+22540,"Fond du Lac, WI",91.643,2024,PlainCost / BEA 2024 RPP
+22660,"Fort Collins-Loveland, CO",101.128,2024,PlainCost / BEA 2024 RPP
+22900,"Fort Smith, AR-OK",85.888,2024,PlainCost / BEA 2024 RPP
+23060,"Fort Wayne, IN",92.572,2024,PlainCost / BEA 2024 RPP
+23420,"Fresno, CA",102.158,2024,PlainCost / BEA 2024 RPP
+23460,"Gadsden, AL",85.653,2024,PlainCost / BEA 2024 RPP
+23540,"Gainesville, FL",96.733,2024,PlainCost / BEA 2024 RPP
+23580,"Gainesville, GA",96.766,2024,PlainCost / BEA 2024 RPP
+23900,"Gettysburg, PA",95.379,2024,PlainCost / BEA 2024 RPP
+24020,"Glens Falls, NY",94.866,2024,PlainCost / BEA 2024 RPP
+24140,"Goldsboro, NC",88.462,2024,PlainCost / BEA 2024 RPP
+24220,"Grand Forks, ND-MN",86.663,2024,PlainCost / BEA 2024 RPP
+24260,"Grand Island, NE",86.657,2024,PlainCost / BEA 2024 RPP
+24300,"Grand Junction, CO",95.476,2024,PlainCost / BEA 2024 RPP
+24340,"Grand Rapids-Wyoming-Kentwood, MI",95.546,2024,PlainCost / BEA 2024 RPP
+24420,"Grants Pass, OR",97.76,2024,PlainCost / BEA 2024 RPP
+24500,"Great Falls, MT",96.845,2024,PlainCost / BEA 2024 RPP
+24540,"Greeley, CO",100.176,2024,PlainCost / BEA 2024 RPP
+24580,"Green Bay, WI",93.086,2024,PlainCost / BEA 2024 RPP
+24660,"Greensboro-High Point, NC",92.865,2024,PlainCost / BEA 2024 RPP
+24780,"Greenville, NC",88.402,2024,PlainCost / BEA 2024 RPP
+24860,"Greenville-Anderson-Greer, SC",93.26,2024,PlainCost / BEA 2024 RPP
+25060,"Gulfport-Biloxi, MS",90.006,2024,PlainCost / BEA 2024 RPP
+25180,"Hagerstown-Martinsburg, MD-WV",94.171,2024,PlainCost / BEA 2024 RPP
+25220,"Hammond, LA",84.46,2024,PlainCost / BEA 2024 RPP
+25260,"Hanford-Corcoran, CA",101.612,2024,PlainCost / BEA 2024 RPP
+25420,"Harrisburg-Carlisle, PA",98.65,2024,PlainCost / BEA 2024 RPP
+25500,"Harrisonburg, VA",94.892,2024,PlainCost / BEA 2024 RPP
+25540,"Hartford-West Hartford-East Hartford, CT",102.746,2024,PlainCost / BEA 2024 RPP
+25620,"Hattiesburg, MS",87.633,2024,PlainCost / BEA 2024 RPP
+25740,"Helena, MT",95.675,2024,PlainCost / BEA 2024 RPP
+25860,"Hickory-Lenoir-Morganton, NC",88.486,2024,PlainCost / BEA 2024 RPP
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",98.017,2024,PlainCost / BEA 2024 RPP
+25980,"Hinesville, GA",93.933,2024,PlainCost / BEA 2024 RPP
+26140,"Homosassa Springs, FL",93.467,2024,PlainCost / BEA 2024 RPP
+26300,"Hot Springs, AR",85.73,2024,PlainCost / BEA 2024 RPP
+26380,"Houma-Bayou Cane-Thibodaux, LA",85.103,2024,PlainCost / BEA 2024 RPP
+26420,"Houston-Pasadena-The Woodlands, TX",98.629,2024,PlainCost / BEA 2024 RPP
+26580,"Huntington-Ashland, WV-KY-OH",88.422,2024,PlainCost / BEA 2024 RPP
+26620,"Huntsville, AL",93.072,2024,PlainCost / BEA 2024 RPP
+26820,"Idaho Falls, ID",94.412,2024,PlainCost / BEA 2024 RPP
+26900,"Indianapolis-Carmel-Greenwood, IN",95.696,2024,PlainCost / BEA 2024 RPP
+26980,"Iowa City, IA",91.509,2024,PlainCost / BEA 2024 RPP
+27060,"Ithaca, NY",103.317,2024,PlainCost / BEA 2024 RPP
+27100,"Jackson, MI",91.779,2024,PlainCost / BEA 2024 RPP
+27140,"Jackson, MS",89.048,2024,PlainCost / BEA 2024 RPP
+27180,"Jackson, TN",85.522,2024,PlainCost / BEA 2024 RPP
+27260,"Jacksonville, FL",99.484,2024,PlainCost / BEA 2024 RPP
+27340,"Jacksonville, NC",92.085,2024,PlainCost / BEA 2024 RPP
+27500,"Janesville-Beloit, WI",93.703,2024,PlainCost / BEA 2024 RPP
+27620,"Jefferson City, MO",87.975,2024,PlainCost / BEA 2024 RPP
+27740,"Johnson City, TN",87.928,2024,PlainCost / BEA 2024 RPP
+27780,"Johnstown, PA",85.929,2024,PlainCost / BEA 2024 RPP
+27860,"Jonesboro, AR",85.876,2024,PlainCost / BEA 2024 RPP
+27900,"Joplin, MO-KS",85.718,2024,PlainCost / BEA 2024 RPP
+27980,"Kahului-Wailuku, HI",109.393,2024,PlainCost / BEA 2024 RPP
+28020,"Kalamazoo-Portage, MI",94.84,2024,PlainCost / BEA 2024 RPP
+28100,"Kankakee, IL",96.394,2024,PlainCost / BEA 2024 RPP
+28140,"Kansas City, MO-KS",92.543,2024,PlainCost / BEA 2024 RPP
+28420,"Kennewick-Richland, WA",100.079,2024,PlainCost / BEA 2024 RPP
+28450,"Kenosha, WI",101.118,2024,PlainCost / BEA 2024 RPP
+28660,"Killeen-Temple, TX",91.132,2024,PlainCost / BEA 2024 RPP
+28700,"Kingsport-Bristol, TN-VA",86.447,2024,PlainCost / BEA 2024 RPP
+28740,"Kingston, NY",100.709,2024,PlainCost / BEA 2024 RPP
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",109.422,2024,PlainCost / BEA 2024 RPP
+28940,"Knoxville, TN",92.569,2024,PlainCost / BEA 2024 RPP
+29020,"Kokomo, IN",89.648,2024,PlainCost / BEA 2024 RPP
+29100,"La Crosse-Onalaska, WI-MN",91.769,2024,PlainCost / BEA 2024 RPP
+29180,"Lafayette, LA",87.209,2024,PlainCost / BEA 2024 RPP
+29200,"Lafayette-West Lafayette, IN",93.43,2024,PlainCost / BEA 2024 RPP
+29340,"Lake Charles, LA",85.852,2024,PlainCost / BEA 2024 RPP
+29420,"Lake Havasu City-Kingman, AZ",94.098,2024,PlainCost / BEA 2024 RPP
+29460,"Lakeland-Winter Haven, FL",97.141,2024,PlainCost / BEA 2024 RPP
+29540,"Lancaster, PA",98.257,2024,PlainCost / BEA 2024 RPP
+29620,"Lansing-East Lansing, MI",94.991,2024,PlainCost / BEA 2024 RPP
+29700,"Laredo, TX",86.956,2024,PlainCost / BEA 2024 RPP
+29740,"Las Cruces, NM",90.212,2024,PlainCost / BEA 2024 RPP
+29820,"Las Vegas-Henderson-North Las Vegas, NV",100.215,2024,PlainCost / BEA 2024 RPP
+29940,"Lawrence, KS",90.243,2024,PlainCost / BEA 2024 RPP
+30020,"Lawton, OK",85.941,2024,PlainCost / BEA 2024 RPP
+30140,"Lebanon, PA",93.214,2024,PlainCost / BEA 2024 RPP
+30300,"Lewiston, ID-WA",91.16,2024,PlainCost / BEA 2024 RPP
+30340,"Lewiston-Auburn, ME",94.736,2024,PlainCost / BEA 2024 RPP
+30460,"Lexington-Fayette, KY",92.889,2024,PlainCost / BEA 2024 RPP
+30500,"Lexington Park, MD",100.76,2024,PlainCost / BEA 2024 RPP
+30620,"Lima, OH",89.669,2024,PlainCost / BEA 2024 RPP
+30700,"Lincoln, NE",91.581,2024,PlainCost / BEA 2024 RPP
+30780,"Little Rock-North Little Rock-Conway, AR",89.364,2024,PlainCost / BEA 2024 RPP
+30860,"Logan, UT-ID",95.927,2024,PlainCost / BEA 2024 RPP
+30980,"Longview, TX",89.485,2024,PlainCost / BEA 2024 RPP
+31020,"Longview-Kelso, WA",97.545,2024,PlainCost / BEA 2024 RPP
+31080,"Los Angeles-Long Beach-Anaheim, CA",113.566,2024,PlainCost / BEA 2024 RPP
+31140,"Louisville/Jefferson County, KY-IN",93.074,2024,PlainCost / BEA 2024 RPP
+31180,"Lubbock, TX",91.317,2024,PlainCost / BEA 2024 RPP
+31340,"Lynchburg, VA",89.363,2024,PlainCost / BEA 2024 RPP
+31420,"Macon-Bibb County, GA",88.528,2024,PlainCost / BEA 2024 RPP
+31540,"Madison, WI",97.287,2024,PlainCost / BEA 2024 RPP
+31700,"Manchester-Nashua, NH",105.657,2024,PlainCost / BEA 2024 RPP
+31740,"Manhattan, KS",90.162,2024,PlainCost / BEA 2024 RPP
+31860,"Mankato, MN",90.955,2024,PlainCost / BEA 2024 RPP
+31900,"Mansfield, OH",88.872,2024,PlainCost / BEA 2024 RPP
+32580,"McAllen-Edinburg-Mission, TX",85.895,2024,PlainCost / BEA 2024 RPP
+32780,"Medford, OR",101.433,2024,PlainCost / BEA 2024 RPP
+32820,"Memphis, TN-MS-AR",92.179,2024,PlainCost / BEA 2024 RPP
+32900,"Merced, CA",98.275,2024,PlainCost / BEA 2024 RPP
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",114.155,2024,PlainCost / BEA 2024 RPP
+33140,"Michigan City-La Porte, IN",91.682,2024,PlainCost / BEA 2024 RPP
+33220,"Midland, MI",91.921,2024,PlainCost / BEA 2024 RPP
+33260,"Midland, TX",95.783,2024,PlainCost / BEA 2024 RPP
+33340,"Milwaukee-Waukesha, WI",96.937,2024,PlainCost / BEA 2024 RPP
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",104.822,2024,PlainCost / BEA 2024 RPP
+33500,"Minot, ND",87.028,2024,PlainCost / BEA 2024 RPP
+33540,"Missoula, MT",96.445,2024,PlainCost / BEA 2024 RPP
+33660,"Mobile, AL",88.098,2024,PlainCost / BEA 2024 RPP
+33700,"Modesto, CA",104.108,2024,PlainCost / BEA 2024 RPP
+33740,"Monroe, LA",83.597,2024,PlainCost / BEA 2024 RPP
+33780,"Monroe, MI",93.492,2024,PlainCost / BEA 2024 RPP
+33860,"Montgomery, AL",89.682,2024,PlainCost / BEA 2024 RPP
+34060,"Morgantown, WV",93.323,2024,PlainCost / BEA 2024 RPP
+34100,"Morristown, TN",86.364,2024,PlainCost / BEA 2024 RPP
+34580,"Mount Vernon-Anacortes, WA",102.443,2024,PlainCost / BEA 2024 RPP
+34620,"Muncie, IN",88.148,2024,PlainCost / BEA 2024 RPP
+34740,"Muskegon-Norton Shores, MI",92.519,2024,PlainCost / BEA 2024 RPP
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",93.642,2024,PlainCost / BEA 2024 RPP
+34900,"Napa, CA",112.554,2024,PlainCost / BEA 2024 RPP
+34940,"Naples-Marco Island, FL",103.2,2024,PlainCost / BEA 2024 RPP
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",96.338,2024,PlainCost / BEA 2024 RPP
+35300,"New Haven, CT",104.559,2024,PlainCost / BEA 2024 RPP
+35380,"New Orleans-Metairie, LA",92.597,2024,PlainCost / BEA 2024 RPP
+35620,"New York-Newark-Jersey City, NY-NJ",112.563,2024,PlainCost / BEA 2024 RPP
+35660,"Niles, MI",92.37,2024,PlainCost / BEA 2024 RPP
+35840,"North Port-Bradenton-Sarasota, FL",102.417,2024,PlainCost / BEA 2024 RPP
+35980,"Norwich-New London-Willimantic, CT",100.445,2024,PlainCost / BEA 2024 RPP
+36100,"Ocala, FL",95.234,2024,PlainCost / BEA 2024 RPP
+36220,"Odessa, TX",93.896,2024,PlainCost / BEA 2024 RPP
+36260,"Ogden, UT",100.349,2024,PlainCost / BEA 2024 RPP
+36420,"Oklahoma City, OK",90.408,2024,PlainCost / BEA 2024 RPP
+36500,"Olympia-Lacey-Tumwater, WA",103.67,2024,PlainCost / BEA 2024 RPP
+36540,"Omaha, NE-IA",91.911,2024,PlainCost / BEA 2024 RPP
+36740,"Orlando-Kissimmee-Sanford, FL",101.418,2024,PlainCost / BEA 2024 RPP
+36780,"Oshkosh-Neenah, WI",92.929,2024,PlainCost / BEA 2024 RPP
+36980,"Owensboro, KY",88.61,2024,PlainCost / BEA 2024 RPP
+37100,"Oxnard-Thousand Oaks-Ventura, CA",110.534,2024,PlainCost / BEA 2024 RPP
+37140,"Paducah, KY-IL",86.084,2024,PlainCost / BEA 2024 RPP
+37340,"Palm Bay-Melbourne-Titusville, FL",100.005,2024,PlainCost / BEA 2024 RPP
+37460,"Panama City-Panama City Beach, FL",97.296,2024,PlainCost / BEA 2024 RPP
+37620,"Parkersburg-Vienna, WV",87.066,2024,PlainCost / BEA 2024 RPP
+37860,"Pensacola-Ferry Pass-Brent, FL",97.717,2024,PlainCost / BEA 2024 RPP
+37900,"Peoria, IL",91.231,2024,PlainCost / BEA 2024 RPP
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",102.554,2024,PlainCost / BEA 2024 RPP
+38060,"Phoenix-Mesa-Chandler, AZ",103.316,2024,PlainCost / BEA 2024 RPP
+38240,"Pinehurst-Southern Pines, NC",88.336,2024,PlainCost / BEA 2024 RPP
+38300,"Pittsburgh, PA",94.671,2024,PlainCost / BEA 2024 RPP
+38340,"Pittsfield, MA",95.106,2024,PlainCost / BEA 2024 RPP
+38540,"Pocatello, ID",88.906,2024,PlainCost / BEA 2024 RPP
+38860,"Portland-South Portland, ME",101.858,2024,PlainCost / BEA 2024 RPP
+38900,"Portland-Vancouver-Hillsboro, OR-WA",105.421,2024,PlainCost / BEA 2024 RPP
+38940,"Port St. Lucie, FL",100.228,2024,PlainCost / BEA 2024 RPP
+39150,"Prescott Valley-Prescott, AZ",98.255,2024,PlainCost / BEA 2024 RPP
+39300,"Providence-Warwick, RI-MA",101.773,2024,PlainCost / BEA 2024 RPP
+39340,"Provo-Orem-Lehi, UT",98.232,2024,PlainCost / BEA 2024 RPP
+39380,"Pueblo, CO",91.762,2024,PlainCost / BEA 2024 RPP
+39460,"Punta Gorda, FL",100.525,2024,PlainCost / BEA 2024 RPP
+39540,"Racine-Mount Pleasant, WI",95.961,2024,PlainCost / BEA 2024 RPP
+39580,"Raleigh-Cary, NC",98.157,2024,PlainCost / BEA 2024 RPP
+39660,"Rapid City, SD",89.16,2024,PlainCost / BEA 2024 RPP
+39740,"Reading, PA",97.06,2024,PlainCost / BEA 2024 RPP
+39820,"Redding, CA",100.684,2024,PlainCost / BEA 2024 RPP
+39900,"Reno, NV",101.014,2024,PlainCost / BEA 2024 RPP
+40060,"Richmond, VA",97.858,2024,PlainCost / BEA 2024 RPP
+40140,"Riverside-San Bernardino-Ontario, CA",106.442,2024,PlainCost / BEA 2024 RPP
+40220,"Roanoke, VA",93.618,2024,PlainCost / BEA 2024 RPP
+40340,"Rochester, MN",90.821,2024,PlainCost / BEA 2024 RPP
+40380,"Rochester, NY",97.035,2024,PlainCost / BEA 2024 RPP
+40420,"Rockford, IL",92.154,2024,PlainCost / BEA 2024 RPP
+40580,"Rocky Mount, NC",88.012,2024,PlainCost / BEA 2024 RPP
+40660,"Rome, GA",90.161,2024,PlainCost / BEA 2024 RPP
+40900,"Sacramento-Roseville-Folsom, CA",106.67,2024,PlainCost / BEA 2024 RPP
+40980,"Saginaw, MI",90.891,2024,PlainCost / BEA 2024 RPP
+41060,"St. Cloud, MN",87.632,2024,PlainCost / BEA 2024 RPP
+41100,"St. George, UT",97.321,2024,PlainCost / BEA 2024 RPP
+41140,"St. Joseph, MO-KS",86.382,2024,PlainCost / BEA 2024 RPP
+41180,"St. Louis, MO-IL",95.088,2024,PlainCost / BEA 2024 RPP
+41420,"Salem, OR",103.649,2024,PlainCost / BEA 2024 RPP
+41500,"Salinas, CA",109.042,2024,PlainCost / BEA 2024 RPP
+41540,"Salisbury, MD",95.617,2024,PlainCost / BEA 2024 RPP
+41620,"Salt Lake City-Murray, UT",100.868,2024,PlainCost / BEA 2024 RPP
+41660,"San Angelo, TX",92.453,2024,PlainCost / BEA 2024 RPP
+41700,"San Antonio-New Braunfels, TX",94.716,2024,PlainCost / BEA 2024 RPP
+41740,"San Diego-Chula Vista-Carlsbad, CA",111.887,2024,PlainCost / BEA 2024 RPP
+41780,"Sandusky, OH",89.281,2024,PlainCost / BEA 2024 RPP
+41860,"San Francisco-Oakland-Fremont, CA",115.613,2024,PlainCost / BEA 2024 RPP
+41940,"San Jose-Sunnyvale-Santa Clara, CA",110.423,2024,PlainCost / BEA 2024 RPP
+42020,"San Luis Obispo-Paso Robles, CA",108.596,2024,PlainCost / BEA 2024 RPP
+42100,"Santa Cruz-Watsonville, CA",109.896,2024,PlainCost / BEA 2024 RPP
+42140,"Santa Fe, NM",98.767,2024,PlainCost / BEA 2024 RPP
+42200,"Santa Maria-Santa Barbara, CA",108.798,2024,PlainCost / BEA 2024 RPP
+42220,"Santa Rosa-Petaluma, CA",107.784,2024,PlainCost / BEA 2024 RPP
+42340,"Savannah, GA",95.206,2024,PlainCost / BEA 2024 RPP
+42540,"Scranton--Wilkes-Barre, PA",93.556,2024,PlainCost / BEA 2024 RPP
+42660,"Seattle-Tacoma-Bellevue, WA",111.133,2024,PlainCost / BEA 2024 RPP
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",98.308,2024,PlainCost / BEA 2024 RPP
+42700,"Sebring, FL",92.47,2024,PlainCost / BEA 2024 RPP
+43100,"Sheboygan, WI",94.014,2024,PlainCost / BEA 2024 RPP
+43300,"Sherman-Denison, TX",93.771,2024,PlainCost / BEA 2024 RPP
+43340,"Shreveport-Bossier City, LA",84.766,2024,PlainCost / BEA 2024 RPP
+43420,"Sierra Vista-Douglas, AZ",89.243,2024,PlainCost / BEA 2024 RPP
+43580,"Sioux City, IA-NE-SD",86.454,2024,PlainCost / BEA 2024 RPP
+43620,"Sioux Falls, SD-MN",90.631,2024,PlainCost / BEA 2024 RPP
+43640,"Slidell-Mandeville-Covington, LA",92.726,2024,PlainCost / BEA 2024 RPP
+43780,"South Bend-Mishawaka, IN-MI",92.858,2024,PlainCost / BEA 2024 RPP
+43900,"Spartanburg, SC",91.051,2024,PlainCost / BEA 2024 RPP
+44060,"Spokane-Spokane Valley, WA",100.346,2024,PlainCost / BEA 2024 RPP
+44100,"Springfield, IL",92.745,2024,PlainCost / BEA 2024 RPP
+44140,"Springfield, MA",96.061,2024,PlainCost / BEA 2024 RPP
+44180,"Springfield, MO",88.585,2024,PlainCost / BEA 2024 RPP
+44220,"Springfield, OH",90.482,2024,PlainCost / BEA 2024 RPP
+44300,"State College, PA",96.762,2024,PlainCost / BEA 2024 RPP
+44420,"Staunton-Stuarts Draft, VA",91.128,2024,PlainCost / BEA 2024 RPP
+44700,"Stockton-Lodi, CA",105.089,2024,PlainCost / BEA 2024 RPP
+44940,"Sumter, SC",88.02,2024,PlainCost / BEA 2024 RPP
+45060,"Syracuse, NY",95.742,2024,PlainCost / BEA 2024 RPP
+45220,"Tallahassee, FL",93.919,2024,PlainCost / BEA 2024 RPP
+45300,"Tampa-St. Petersburg-Clearwater, FL",100.89,2024,PlainCost / BEA 2024 RPP
+45460,"Terre Haute, IN",87.797,2024,PlainCost / BEA 2024 RPP
+45500,"Texarkana, TX-AR",84.012,2024,PlainCost / BEA 2024 RPP
+45780,"Toledo, OH",91.455,2024,PlainCost / BEA 2024 RPP
+45820,"Topeka, KS",88.82,2024,PlainCost / BEA 2024 RPP
+45900,"Traverse City, MI",93.372,2024,PlainCost / BEA 2024 RPP
+45940,"Trenton-Princeton, NJ",103.18,2024,PlainCost / BEA 2024 RPP
+46060,"Tucson, AZ",96.896,2024,PlainCost / BEA 2024 RPP
+46140,"Tulsa, OK",89.214,2024,PlainCost / BEA 2024 RPP
+46220,"Tuscaloosa, AL",87.722,2024,PlainCost / BEA 2024 RPP
+46300,"Twin Falls, ID *",92.108,2024,PlainCost / BEA 2024 RPP
+46340,"Tyler, TX",92.156,2024,PlainCost / BEA 2024 RPP
+46520,"Urban Honolulu, HI",110.961,2024,PlainCost / BEA 2024 RPP
+46540,"Utica-Rome, NY",92.678,2024,PlainCost / BEA 2024 RPP
+46660,"Valdosta, GA",88.271,2024,PlainCost / BEA 2024 RPP
+46700,"Vallejo, CA",108.479,2024,PlainCost / BEA 2024 RPP
+47020,"Victoria, TX",89.839,2024,PlainCost / BEA 2024 RPP
+47220,"Vineland, NJ",95.968,2024,PlainCost / BEA 2024 RPP
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",97.941,2024,PlainCost / BEA 2024 RPP
+47300,"Visalia, CA",99.825,2024,PlainCost / BEA 2024 RPP
+47380,"Waco, TX",92.55,2024,PlainCost / BEA 2024 RPP
+47460,"Walla Walla, WA",98.519,2024,PlainCost / BEA 2024 RPP
+47580,"Warner Robins, GA",93.789,2024,PlainCost / BEA 2024 RPP
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",108.884,2024,PlainCost / BEA 2024 RPP
+47930,"Waterbury-Shelton, CT",99.778,2024,PlainCost / BEA 2024 RPP
+47940,"Waterloo-Cedar Falls, IA",87.057,2024,PlainCost / BEA 2024 RPP
+48060,"Watertown-Fort Drum, NY",87.69,2024,PlainCost / BEA 2024 RPP
+48140,"Wausau, WI",92.651,2024,PlainCost / BEA 2024 RPP
+48260,"Weirton-Steubenville, WV-OH",89.024,2024,PlainCost / BEA 2024 RPP
+48300,"Wenatchee-East Wenatchee, WA",103.855,2024,PlainCost / BEA 2024 RPP
+48540,"Wheeling, WV-OH",88.323,2024,PlainCost / BEA 2024 RPP
+48620,"Wichita, KS",88.946,2024,PlainCost / BEA 2024 RPP
+48660,"Wichita Falls, TX",89.513,2024,PlainCost / BEA 2024 RPP
+48680,"Wildwood-The Villages, FL",85.424,2024,PlainCost / BEA 2024 RPP
+48700,"Williamsport, PA",92.35,2024,PlainCost / BEA 2024 RPP
+48900,"Wilmington, NC",96.422,2024,PlainCost / BEA 2024 RPP
+49020,"Winchester, VA-WV",96.45,2024,PlainCost / BEA 2024 RPP
+49180,"Winston-Salem, NC",92.043,2024,PlainCost / BEA 2024 RPP
+49340,"Worcester, MA",102.523,2024,PlainCost / BEA 2024 RPP
+49420,"Yakima, WA",95.545,2024,PlainCost / BEA 2024 RPP
+49620,"York-Hanover, PA",96.0,2024,PlainCost / BEA 2024 RPP
+49660,"Youngstown-Warren, OH",87.394,2024,PlainCost / BEA 2024 RPP
+49700,"Yuba City, CA",104.233,2024,PlainCost / BEA 2024 RPP
+49740,"Yuma, AZ",92.706,2024,PlainCost / BEA 2024 RPP

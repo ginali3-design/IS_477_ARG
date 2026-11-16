@@ -1,0 +1,44 @@
+{
+  "cleaned_record_counts": {
+    "rent": 393,
+    "wages": 393,
+    "rpp": 387
+  },
+  "duplicate_cbsa_count": {
+    "rent": 0,
+    "wages": 0,
+    "rpp": 0
+  },
+  "missing_required_values": {
+    "rent": 0,
+    "wages": 0,
+    "rpp": 0
+  },
+  "matched_cbsa_count": 387,
+  "union_cbsa_count": 393,
+  "unmatched_cbsa_count": 6,
+  "unmatched_by_dataset": {
+    "rent": 0,
+    "wages": 0,
+    "rpp": 6
+  },
+  "years_found": {
+    "rent": [
+      "2024"
+    ],
+    "wages": [
+      "2024"
+    ],
+    "rpp": [
+      "2024"
+    ]
+  },
+  "notes": [
+    "All matched files use 2024 and a standardized five-digit CBSA code.",
+    "CBSA matches establish an identifier join; metro boundary equivalence and source concepts should still be reviewed.",
+    "Median annual wages across all occupations are not entry-level graduate salaries.",
+    "RPP is an index with U.S. average 100, not a household budget; housing is already incorporated in overall RPP.",
+    "ACS margins of error are retained in rent source, but not propagated into the exploratory calculated ratios.",
+    "Accuracy cannot be guaranteed by schema checks alone; verify selected rows against source publications."
+  ]
+}
